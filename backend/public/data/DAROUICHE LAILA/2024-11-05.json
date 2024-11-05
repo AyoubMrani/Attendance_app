@@ -27,13 +27,13 @@
     "id": 5,
     "nom": "BELHADJ",
     "prenom": "HATIM",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 6,
     "nom": "BENZARGHIGH",
     "prenom": "SALMA",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 7,
@@ -81,13 +81,13 @@
     "id": 14,
     "nom": "EL KHAMISSI",
     "prenom": "HANAN",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 15,
     "nom": "EL KHAYATI",
     "prenom": "AYA",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 16,
@@ -99,25 +99,25 @@
     "id": 17,
     "nom": "ERRAMACH",
     "prenom": "IHSANE",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 18,
     "nom": "ERRIFI",
     "prenom": "BOUTAINA",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 19,
-    "nom": "FARESS",
-    "prenom": "BOUGOTTAYA",
+    "nom": "BOUGOTTAYA",
+    "prenom": "FARESS",
     "isAbsent": false
   },
   {
     "id": 20,
     "nom": "HALIMI",
     "prenom": "ASMAE",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 21,
@@ -129,7 +129,7 @@
     "id": 22,
     "nom": "HASNAOUI",
     "prenom": "SAMIA",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 23,
@@ -147,7 +147,7 @@
     "id": 25,
     "nom": "LAHMIDI",
     "prenom": "ILYAS",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 26,
@@ -159,7 +159,7 @@
     "id": 27,
     "nom": "MAVAMBU",
     "prenom": "YANNICK",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 28,
@@ -201,7 +201,7 @@
     "id": 34,
     "nom": "OUSSAFOU",
     "prenom": "RAOUYAE",
-    "isAbsent": false
+    "isAbsent": true
   },
   {
     "id": 35,
@@ -231,7 +231,7 @@
     "id": 39,
     "nom": "ZITANE",
     "prenom": "FADOUA",
-    "isAbsent": true
+    "isAbsent": false
   },
   {
     "id": 40,
@@ -243,6 +243,12 @@
     "id": 41,
     "nom": "FTOUHI",
     "prenom": "INSSAF",
-    "isAbsent": true
+    "isAbsent": false
+  },
+  {
+    "id": 42,
+    "nom": "BAKKALI KASIMI",
+    "prenom": "MOHAMED YASSINE",
+    "isAbsent": false
   }
 ]

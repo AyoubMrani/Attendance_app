@@ -244,5 +244,10 @@
     "nom": "FTOUHI",
     "prenom": "INSSAF",
     "isAbsent": false
+  },
+  {
+    "id": 42,
+    "nom": "BAKKALI KASIMI",
+    "prenom": "MOHAMED YASSINE"
   }
 ]
